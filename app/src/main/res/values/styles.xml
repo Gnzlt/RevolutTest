@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="RevolutTheme" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryLightColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorOnSurface">@color/primaryTextColor</item>
+    </style>
+
+    <style name="Widget.PopsyTheme.CircleImageView" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>
